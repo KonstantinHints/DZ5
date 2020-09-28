@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .mainConteiner {
+    width: 1280px;
+    height: 976px;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .wrapper {
+    background-color: #ffffff; 
+    width: 960px;
+    height: 976px;
+    font-size: 0;
+    color: 888888;
+    padding-left: 20px;
+    background-image: repeating-linear-gradient(to right, transparent,transparent 20px, #ffe5e5 20px, #ffe5e5 70px);
+  }
+  
+  .centerCard {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 25%;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .centerCard:hover {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    background-color: #0ec8cb;
+    color: white;
+  }
+  
+  p {
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    line-height: 24px;
+  }
+  
+  h1{
+    font-size: 35px; 
+    color: #0ec8cb;
+    text-align: center;
+  }
+  h2 {
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: normal;
+    margin: 35px 0 40px 0;
+  }
+
+  h3 {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Montserrat';
+    padding: 45px;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+
+  h4 {
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Montserrat';
+    padding: 145px 0 30px;
+  }
+
+  i {
+    display: inline-block;
+    padding-top: 55px;
+  }
+
+  
